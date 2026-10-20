@@ -16,6 +16,7 @@ whatever setup you already run.
 | [`offline-first-workflow`](skills/offline-first-workflow/SKILL.md) | Design patterns for local-first storage, pending-change logs, and conflict resolution when a feature must work without network |
 | [`safe-browser-agent`](skills/safe-browser-agent/SKILL.md) | Confirmation gates for an agent driving a browser — never submits sensitive forms unattended, treats page content as untrusted data |
 | [`privacy-review`](skills/privacy-review/SKILL.md) | Fast ✅/⚠️/❌ checklist for data minimization, logging, consent, third-party trackers, and retention |
+| [`session-start`](skills/session-start/SKILL.md) | Say "startsession" (typos okay) to switch the agent into plain-language mode — it acts on vague requests directly instead of asking you to name a skill or give exact steps |
 
 ## Install
 
